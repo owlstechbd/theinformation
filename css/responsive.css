@@ -11,25 +11,29 @@
     .service{
         margin-top: -200px;
     }
+    .hero{
+        height: auto;
+        padding-bottom: 200px;
+    }
+     .phase {
+        top: 4%;
+        width: 36%;
+        right: 20%;
+    }
+    .phase2{
+        top: 37%;
+    }
 
 }
 @media screen and (max-width: 1537px){
-    .hero {
-        background-position-x: -70px;
-    }
+   
     .service{
         margin-top: -180px;
     }
 }
 @media screen and (max-width: 1500px){
     
-    .phase {
-        top: 5%;
-        right: 20%;
-    }
-    .phase2{
-        top: 40%;
-    }
+   
     .phase3{
         top: 71%;
     }
