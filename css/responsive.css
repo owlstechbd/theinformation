@@ -1,0 +1,214 @@
+@media screen and (max-width: 1650px){
+
+    .hero-content{
+        width: 70%;
+        margin: 0;
+        padding-left: 30px;
+    }
+    .footer{
+        padding: 350px 0 100px;
+    }
+    .service{
+        margin-top: -200px;
+    }
+
+}
+@media screen and (max-width: 1537px){
+    .hero {
+        background-position-x: -70px;
+    }
+    .service{
+        margin-top: -180px;
+    }
+}
+@media screen and (max-width: 1500px){
+    
+    .phase {
+        top: 5%;
+        right: 20%;
+    }
+    .phase2{
+        top: 40%;
+    }
+    .phase3{
+        top: 71%;
+    }
+    .service{
+        margin-top: -180px;
+    }
+}
+@media screen and (max-width: 1390px){
+    .hero-content h2{
+        font-size: 18px;
+    }
+    .phase {
+        top: 3%;
+        right: 20%;
+    }
+    .phase2{
+        top: 37%;
+    }
+    .phase3{
+        top: 71%;
+    }
+    .list-check{
+        width: 65%;
+    }
+    .footer{
+        padding: 250px 0 100px;
+    }
+}
+@media screen and (max-width: 1340px){
+    .phase{
+        width: 38%;
+    }
+    .phase3{
+        right: 10%;
+    }
+}
+@media screen and (max-width: 1250px){
+    .hero-content {
+        width: 77%;
+        margin: 0;
+    }
+   
+}
+@media screen and (max-width: 1200px){
+    .hero{
+        height: auto;
+        background: url(../images/hero-bg-phone.webp) center center no-repeat;
+        background-size: cover;
+    }
+    .hero-img img{
+        width: 100%;
+    }
+    .for-phone{
+        display: block;
+    }
+    .hero-box{
+        flex-direction: column;
+    }
+
+    .hero-box-content{
+        width: 100%;
+        padding: 0 30px;
+    }
+    .hero-box-img{
+        width: 100%;
+    }
+    .container2{
+        width: 100%;
+    }
+    .logo{
+        padding-bottom: 0;
+    }
+}
+@media screen and (max-width: 1169px){
+    .service-content{
+        padding: 0;
+    }
+    .serbice-box{
+        background: #fff;
+        padding-bottom: 30px;
+        margin-bottom: 40px;
+    }
+    .phase {
+        width: 45%;
+        right: 12%;
+    }
+    .phase2 {
+      
+        left: 12%;
+    }
+    .phase{
+        right: 5%;
+    }
+}
+@media screen and (max-width: 1096px){
+    .how-it-work{
+        margin-top:0px;
+        padding-top: 50px;
+        background: linear-gradient(180deg, #EF8D4A 0%, #CFC4FF 100%);
+
+    }
+    .service{
+        padding-bottom: 70px;
+    }
+    .how-title{
+        padding-top: 0;
+    }
+    .big-img{
+        display: none;
+    }
+    .phase-text h3{
+        color: #fff;
+        padding: 5px;
+        font-size: 20px;
+        font-weight:600 ;
+        border-radius: 5px;
+        background:#3B97D3;
+        display: inline-block;
+    }
+    .phase-img{
+        text-align: center;
+        margin-top: 20px;
+    }
+    .phase-img img{
+        width: 30%;
+    }
+    .tool-left{
+        background: #fff;
+        width: 70%;
+    }
+    .list-check {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .get-content{
+        margin-bottom: 40px;
+    }
+    .hero-content{
+        width: 100%;
+    }
+    .service-content{
+        margin-bottom: 30px;
+    }
+    .tool{
+        flex-direction: column;
+    }
+    .tool-left{
+        width: 100%;
+        border-radius: 15px;
+    }
+    .tool-right{
+        margin-top: 30px;
+        width: 100%;
+    }
+    .start-container{
+        width: 90%;
+    }
+    .list-check{
+        flex-direction: column;
+    }
+    .get-content h1 {
+        font-size: 36px;
+    }
+    .phase-img img {
+        width: 52%;
+    }
+    .service-container {
+        width: 95%;
+        margin: 0 auto;
+    }
+    .serbice-box{
+        padding: 20px;
+    }
+    .serbice-box h2 {
+        font-size: 28px;
+        font-weight: 700;
+        margin: 15px 0 40px;
+        color: #000;
+    }
+}
