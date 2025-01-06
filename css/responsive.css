@@ -23,6 +23,10 @@
     .phase2{
         top: 37%;
     }
+    .phase3{
+        top: 74%;
+        right: 9%;
+    }
 
 }
 @media screen and (max-width: 1537px){
